@@ -32,11 +32,14 @@ RTF and TXT save/reopen tested and confirmed.
 
 **RTF retains font formatting. TXT retains characters only:** select a Ndebe font again after opening plain text if the application displays missing-character boxes. This is expected and does not mean the text was lost.
 
+Pages was tested on macOS on 2026-09-25 with both Ndebe Rounded and Ndebe Soft Bold. Representative combined glyphs, nzobe forms, teaching placeholders, numerals, currencies, arithmetic, symbols and quotations rendered correctly. The specimen was saved as a native `.pages` document, closed and reopened successfully; representative Ndebe sequences and visual formatting were retained.
+
 **Pending Verifications:**
-- [] Windows
-- [] Pages
-- [] Physical mobile-device input
-- [] Actual embedded-font document portability remain unverified.
+
+- [ ] Windows
+- [ ] Physical Keyman typing inside Pages
+- [ ] Physical mobile-device input
+- [ ] Actual embedded-font document portability
 
 The fonts do not contain an OpenType MATH table; stretchable equation layout depends on the receiving application.
 Native Keyman quotation alternation has a 64-character context limit.
