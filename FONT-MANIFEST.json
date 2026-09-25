@@ -1,0 +1,12 @@
+{
+  "version": "1.000 RC1",
+  "source": "Approved 2026-09-24 release candidate",
+  "sha256": {
+    "Ndebe Rounded/Font/NdebeRounded-Regular.ttf": "3f83f87155ca5f214304e97c94764b97a5bff75c65c1dcf599f53225710deddf",
+    "Ndebe Rounded/Font/NdebeRounded-Regular.woff": "e438003eafc860af7fdc69d837e87df8b9b10b8d759837ff7b75c0248ff23ad3",
+    "Ndebe Rounded/Font/NdebeRounded-Regular.woff2": "be6a3758f0c42bb9d2a59d59d9c8cca4fb6c109278b6318de0736681a9fc548f",
+    "Ndebe Soft Bold/Font/NdebeSoftBold-Regular.ttf": "fdc77d9f934ee776939776b05f89749016271ab6b709d912df6436bff8e0dab6",
+    "Ndebe Soft Bold/Font/NdebeSoftBold-Regular.woff": "71185ae49160534aa7c5a56fd855798912095c6f1294e8154913af9bf6e6d273",
+    "Ndebe Soft Bold/Font/NdebeSoftBold-Regular.woff2": "ef0fde46619fbcf105bd75a9180defa096df0c5a830ee4bfb30d523585800b4f"
+  }
+}
